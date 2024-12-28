@@ -7,27 +7,23 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-info
-      href: about.html
-    - text: "More"
+    - text: "Student opportunities"
       icon: fa-gear
       menu:
-        - text: "Heading 1"
+        - text: "Research projects"
         - text: "Page A"
           href: page-a.html
-        - text: "Page B"
-          href: page-b.html
         - text: "---------"
-        - text: "Heading 2"
+        - text: "Internships"
         - text: "Page C"
           href: page-c.html
-        - text: "Page D"
-          href: page-d.html
+    - text: "Publications"
+      icon: fa-info
+      href: publications.html
 
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: default
+    highlight: default
     include:
     css: styles.css
