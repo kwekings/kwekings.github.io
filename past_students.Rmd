@@ -3,10 +3,6 @@ title: "Past students"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 *Peer-reviewed paper in ISI-listed journal published/submitted based on this work.
 
 <!---
@@ -53,4 +49,4 @@ on Amphibian Community Assemblage in an Urban Landscape.” Mentors: Chloe Tan, 
 4.	*Mark Brian Raphael. 2011/2012. Honours Thesis. “Comparative Ecological Performance Between Myrmecophytic Pioneer Tree Species in Singapore: The Native Macranga gigantea Versus the Exotic Cecropia pachystachya.” Supervisors: Assoc. Prof. Hugh Tan, Assoc. Prof. Yap Von Bing.
 3.	*Zeng Yiwen. 2011/2012. Honours Thesis. “A Global Trait-based Assessment of Invasiveness and Vulnerability of Freshwater Crayfish.” Supervisor: Dr Darren Yeo
 2.	Chen Junhao. 2011. Undergraduate Research Opportunities in Science. “Enhancing Herbarium Specimen Data Through a Gazetteer of Collection Localities in Singapore.” Supervisor: Assoc. Prof. Hugh Tan
-1.	*Yeo Hwan Theng Hazelina. 2010/2011. Honours Thesis. “Establishment and Spread of Exotic Palms in Singapore’s Forest Patches.” Supervisors: Assoc. Prof. Hugh Tan, Prof. Richard Corlett. Published as a paper in [_Biological Invasions_](./publications.html#palm).
+1.	*Yeo Hwan Theng Hazelina. 2010/2011. Honours Thesis. “Establishment and Spread of Exotic Palms in Singapore’s Forest Patches.” Supervisors: Assoc. Prof. Hugh Tan, Prof. Richard Corlett. Published as  [Yeo et al. (2014)](/publications.html#YeoEtAl_2014).

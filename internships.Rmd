@@ -3,26 +3,10 @@ title: "Internships"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+NParks’ Tropical Forest Ecology Research programme maintains set of long-term research plots in Singapore’s forests where ecological research can be co-located to maximise potential synergies between projects. These plots include 160 small plots distributed throughout the Central Catchment Nature Reserve and four Nature Parks (Bukit Batok Nature Park, Bukit Batok Town Park, Thomson Nature Park, Windsor Nature Park), as well as two 2-ha plots in the Bukit Timah Nature Reserve that are part of the Forest Global Earth Observatory network of permanent forest dynamics plots.
 
-## R Markdown
+Our intern(s) will (i) assist in the census of trees, saplings, and seedlings, (ii) maintain a set of camera traps and bioacoustics recorders to survey mammals and birds, and/or (iii) monitor flowering, fruiting, and litterfall in these permanent forest plots. Depending on particular interests and any prior experience or skillsets of the intern, they may focus on just one or two of these aspects. Regardless, this internship would be field-intensive, with about 2–3 days of fieldwork per week. It would also involve office/dry laboratory work: drying, sorting, and weighing of leaf litter, as well as sorting of specimens, photographs and data entry.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+At the end of this internship, the student will have gained some ability to identify the common forest trees and/or wildlife in Singapore in the field. Deliverables include updating drafts of field and data protocols and curation of data managed through R Markdown notebooks and version control using Git.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+This is a full-time internship and would be open to any period of the year for 2024 – 2026, but long durations (>10 weeks) preferred. Interested students can directly email your CV to Dr Chong Kwek Yan at chong_kwek_yan[AT]nparks.gov.sg, CC: kwek[AT]nus.edu.sg.
