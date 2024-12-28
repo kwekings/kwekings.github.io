@@ -49,7 +49,7 @@ Chong, K.Y., R. Chong, N.E.B. Rahman, L.W.A. Tan, Q.Y. Ho, Y.Y. Ting, H.R. Lai, 
 19.	Lam, W.N., K.Y. Chong, G.S. Anand, H.T.W. Tan. (2019) Proteolytic activity is lower in Nepenthes pitcher plant traps that are inhabited by mutualist dipteran larvae. International Journal of Plant Sciences 180: 179–185.
 18.	Lam, W.N., W.Y. Wang, L.F. Cheong, J.K.H. Koh, M. Foo, K.Y. Chong, H.T.W. Tan. (2018) Pitcher plant facilitates prey capture in an apparent competitor. Plant Ecology 219: 299–311.
 17.	Neo, L., K.Y. Chong, C.Y. Koh, S.Y. Tan, J.W. Loh, R.C.J. Lim, W.W. Seah, H.T.W. Tan. (2017) Borehole closure and the effects of increment coring on the health of some tropical trees, one year after coring. Journal of Tropical Forest Science 29: 519–529.
-16. 	Harrison, R.D., K.Y. Chong, C.K. Yeo, N.M. Pham, A.T.K. Yee, H.T.W. Tan, J.-Y. Rasplus. (2017) Indian Rubber rediscovers sex in Singapore. Scientific Reports 7: 11616.
+16. Harrison, R.D., K.Y. Chong, C.K. Yeo, N.M. Pham, A.T.K. Yee, H.T.W. Tan, J.-Y. Rasplus. (2017) Indian Rubber rediscovers sex in Singapore. Scientific Reports 7: 11616.
 15.	*Neo, L., A.T.K. Yee, K.Y. Chong, C.Y. Kee, H.T.W. Tan. (2017) Vascular plant species richness and composition along environmental gradients and landscape contexts in two types of post-cultivation tropical secondary forests. Applied Vegetation Science 20: 692–701.
 14.	*Chong, K.Y., M.B. Raphael, L.R. Carrasco, A.T.K. Yee, X. Giam, V.B. Yap, H.T.W. Tan. (2017) Reconstructing the invasion history of a spreading, non-native, tropical tree through a snapshot of current distribution, sizes, and growth rates. Plant Ecology 218: 673–685.
 13.	Lam, W.N., K.Y. Chong, G.S. Anand, H.T.W. Tan. (2017) Inquilines and microbes facilitate nutrient sequestration in the Nepenthes gracilis pitcher plant host. Biology Letters 13: 20160928.
@@ -58,6 +58,7 @@ Chong, K.Y., R. Chong, N.E.B. Rahman, L.W.A. Tan, Q.Y. Ho, Y.Y. Ting, H.R. Lai, 
 10.	Giam, X., R. Hidiaty, H.H. Tan, L. Parenti, D. Worwor, S. Sauri, K.Y. Chong, D. Yeo, D. Wilcove. (2015) Mitigating the impact of oil-palm monoculture on freshwater fishes in Southeast Asia. Conservation Biology 29: 1357–1367.
 9.	Zeng, Y., K.Y. Chong, E.K. Grey, D.M. Lodge, D.C.J. Yeo. (2015) Human pre-introduction selection can confound invasive crayfish risk assessments. Biological Invasions 17: 2373–2385.
 8.	*Raphael, M.B., K.Y. Chong, V.B. Yap, H.T.W. Tan. (2015) Comparing germination rates and seedling traits between native and exotic pioneers: Cecropia pachystachya versus Macaranga gigantea. Plant Ecology 216: 1019–1027.
+<a name="palm"></a>
 7.	*Chong, K.Y., S. Teo, B. Kurukulasuriya, Y.F. Chung, S. Rajathurai, H.T.W. Tan. (2014) Not all green is as good: different effects of the spontaneous and cultivated components of urban vegetation on bird and butterfly diversity. Biological Conservation 171: 299–309.
 6.	*Yeo, H.H.T., K.Y. Chong, A.T.K. Yee, X. Giam, R.T. Corlett, H.T.W. Tan. (2014) Leaf litter depth as an important factor inhibiting seedling establishment of an exotic palm in tropical secondary forest patches. Biological Invasions 16: 381–392.
 5.	*Chong, K.Y., S.M.L. Lee, A.T. Gwee, P.K.F. Leong, S. Ahmad, W.F. Ang, A.F.S.L. Lok, C.K. Yeo, R.T. Corlett, H.T.W. Tan. (2012) Herbarium records do not predict rediscovery of presumed nationally extinct species. Biodiversity and Conservation 21:2589–2599.
@@ -133,7 +134,7 @@ Loh, J.W., K.Y. Chong, Neo L., S.Y. Tan, C.Y. Koh, R.C.J. Lim, W.Q. Ng, W.W. Sea
 2.	Ang, W.F., A.F.S.L. Lok, K.Y. Chong, B.Y.Q. Ng, S.M. Suen, Hugh T.W. Tan. (2010) The distribution and status in Singapore of Rubus molucannus L. var. angulosus Kalkman (Rosaceae). Nature in Singapore 3: 91-97.
 1.	Chong, K.Y., P.T. Ang, H.T.W. Tan. (2010) Identity and spread of an exotic Syngonium species in Singapore. Nature in Singapore 3: 1–5.
 
-# D. COMMENTARY & OTHER CONTRIBUTIONS
+# D. Commentaries & other contributions
 
 <!---
 Gardenwise 60

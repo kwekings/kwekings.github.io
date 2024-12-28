@@ -10,13 +10,14 @@ navbar:
     - text: "Student opportunities"
       icon: fa-gear
       menu:
-        - text: "Research projects"
-        - text: "Page A"
-          href: page-a.html
+        - text: "Student research"
+        - text: "Available projects"
+          href: available_projects.html
+        - text: "Past students"
+          href: past_students.html
         - text: "---------"
         - text: "Internships"
-        - text: "Page C"
-          href: page-c.html
+          href: internships.html
     - text: "Publications"
       icon: fa-info
       href: publications.html

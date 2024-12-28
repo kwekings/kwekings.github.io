@@ -1,0 +1,56 @@
+---
+title: "Past students"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Peer-reviewed paper in ISI-listed journal published/submitted based on this work.
+
+<!---
+Eugenia Mok Kai Ern. 2024/2025. Honours Thesis.
+--->
+41.	Marcus Ooi Yixuan. 2023/2024. Honours Thesis. “Tree community turnover in the Mandai storm forest.”
+40.	Yew Ke Yao. 2022/2023. Honours Thesis. “How do environmental conditions and habitat specialisation result in differential demographic rates among tree species within a tropical catchment containing freshwater swamp forest?”
+39.	Kee Jing Ying. 2021/2022. Honours Thesis. “Age-estimation of butterflies using reflectance spectrometry.” Co-supervisor: Dr Matthew Lim
+38.	*Sim Hong Jhun. 2020/2021. Honours Thesis. “Expansion of a generalizable model of resource conversion mutualisms.” Co-supervisors: Dr Lam Weng Ngai, A/P Ryan Chisholm [Recipient of NUS President’s Graduate Fellowship]
+37.	*Tay Hui Ting, Amanda. 2020/2021. Honours Thesis. “Examining the relationship between leaf and stem hydraulic traits and demographic rates in freshwater swamp forest tree species” Co-supervisor: Dr Lam Weng Ngai
+36.	Emma Gee Yan Ting. 2020/2021. Undergraduate Research Opportunities in Science. “Seeds of doubt—investigating seed survival and seedling recruitment probabilities in tropical swamp forest tree species” Co-supervisor: Dr Lam Weng Ngai
+35.	Choo Ruisheng. 2019/2020. Honours Thesis. “Influence of tree size and hydrology on the fruit production of common tree species in Nee Soon Swamp Forest.” Co-supervisor: Dr Lam Weng Ngai
+34.	Quek Xiao Tong. 2019/2020. Honours Thesis. “Population demographic traits in common urban butterflies.” Mentors: Rie Chong, Justin Nai.
+33.	Tan Boxin. 2019/2020. Honours Thesis. “Effects of understorey weeding in secondary forests in Singapore.”
+32.	Nicholas Seng Ren Yang. 2019/2020. Honours Thesis. “Exploring tropical secondary forest park and nature reserve soils for root endophytic fungi through Zea mays trap cultures.” Main supervisor: Dr Amy Choong.
+31.	*Sim Hong Jhun. 2019/2020. Undergraduate Research Opportunities in Science. “Examining ecological trade-offs and adaptations to the freshwater swamp forest habitat in woody tree species using leaf, wood and stomatal functional traits.” Co-supervisor: Dr Lam Weng Ngai
+30.	*Chan Pin Jia. 2018/2019. Honours Thesis. “Litter production in wet and dry areas of the Nee Soon catchment.” Co-supervisors: Dr Sorain Ramchunder, Dr Kelvin Peh.
+29.	Justin Nai Kim Han. 2018/2019. Honours Thesis. “Cultivated plants in the urban landscape as food for butterfly caterpillars.” Mentor: Rie Chong.
+28.	*Lian Jun Jie. 2018/2019. Honours Thesis. “Litter decomposition rates in wet and dry areas of the Nee Soon catchment.” Co-supervisors: Dr Sorain Ramchunder, Dr Kelvin Peh.
+27.	Ng Shao Hua. 2018/2019. Honours Thesis. “Evidence for the role of urban water bodies in maintaining odonate populations and diversity.” Co-supervisor: A/P Darren Yeo.
+26.	Gwyneth Cheng Jia Yi. 2018. Undergraduate Research Opportunities in Science. “A Study of Plant-Mycorrhizal Interactions in Singapore.” Main supervisor: Dr Amy Choong.
+25.	Emmanuel Goh Shyue Chian. 2017/2018. Honours Thesis. “Effect of Landscape Variables and Water Availability
+on Amphibian Community Assemblage in an Urban Landscape.” Mentors: Chloe Tan, Sherry Hung, Rachel Lee.
+24.	Lim Li Fang. 2017/2018. Honours Thesis. “Effect of Arbuscular Mycorrhizal Colonisation on the Growth of Cecropia pachystachya Seedlings.” Co-supervisor: Dr Amy Choong.
+23.	*Lee Sui Kei Rachel. 2016/2017. Honours Thesis. “Temporal changes in the urban butterfly assemblage through changes in the urban landscape in Singapore.” Mentors: Ng Wen Qing, Chloe Tan, Sherry Hung; Co-supervisor: Assoc. Prof. Hugh Tan.
+22.	Rie Chong. 2016/2017. Honours Thesis. “Cultivated plants in the urban landscape as food for butterfly caterpillars.” Co-supervisor: Assoc. Prof. Hugh Tan.
+21.	Tan Koon Ngee Jonathan. 2016/2017. Honours Thesis. “Responses of the exotic tree, Cecropia pachystachya, along an experimental nutrient gradient.” Co-supervisor: Assoc. Prof. Hugh Tan.
+20.	Tan Wen Ai Lorraine. 2016/2017. Honours Thesis. “Effects of understorey weeding in the Labrador Nature Reserve.” Co-supervisors: Chung Yi Fei, Assoc. Prof. Hugh Tan.
+19.	Wong Qi Yun Melissa. 2016/2017. Honours Thesis. “Assessing the invasive status of Clidemia hirta in the forests of Upper Seletar Reservoir, Singapore.” Mentor: Lai Hao Ran; Co-supervisor: Assoc. Prof. Hugh Tan.
+18.	*Sherry Hung Ming Xuan. 2015/2016. Honours Thesis. “Effects of Competition, Hydrology and Soil Types on Seedling Performance.” Mentor: Seah Wei Wei; Co-supervisor: Assoc. Prof. Hugh Tan.
+17.	Jonathan Tan Koon Ngee. 2015/2016. Undergraduate Research Opportunities in Sciences. “Recruitment, Growth, and Mortality of Native Macaranga Species and the Exotic Cecropia pachystachya.” Mentor: Jolyn Loh Weiting; Co-supervisor: Assoc. Prof. Hugh Tan.
+16.	Chua Xin Yi. 2014/2015. Honours Thesis. “Is there a Correlation between Socio-economic Status and Greenery in Singapore?” Co-mentor: Alex Yee; Supervisor: Assoc. Prof. Hugh Tan.
+15.	*Lam Weng Ngai. 2014/2015. Honours Thesis. “The Ecology of Nepenthesin Production in Nepenthes gracilis Korth. (Nepenthaceae).” Supervisors: Assoc. Prof. Hugh Tan, Assoc. Prof. Ganesh Anand.
+14.	Ng Qi Qi. 2014/2015. Honours Thesis. “Effects of Drought on Vascular Epiphytes in Singapore.” Co-mentor: Reuben Lim; Supervisor: Assoc. Prof. Hugh Tan.
+13.	*Rie Chong. 2014/2015. Undergraduate Research Opportunities in Science. “Pre- and Post-dispersal Seed Predation of Shorea spp. in the Fragmented Primary Forests of Singapore.” Co-mentors: Alex Yee, Marcus Chua; Supervisor: Assoc. Prof. Hugh Tan.
+12.	*Tan Wen Ai Lorraine. 2014/2015 Undergraduate Research Opportunities in Science. “Pre- and Post-dispersal Seed Predation of Dipterocarpus spp. in the Fragmented Primary Forests of Singapore.” Co-mentors: Alex Yee Thiam Koon, Marcus Chua Aik Hian; Supervisor: Assoc. Prof. Hugh Tan.
+11.	Sherry Hung Ming Xuan. 2014/2015. Undergraduate Research Opportunities in Science. “The Vascular Plant Flora and Vegetation of the Islands Associated with Singapore’s First Marine Park.” Supervisor: Assoc. Prof. Hugh Tan.
+10.	Letchumi Mani. 2012/2013. Honours Thesis. “Can Guided Nature Walks in Different Green Space Types Change Conservation Concern and Motivation in High School Students?” Co-mentor: Giam Xingli; Supervisor: Assoc. Prof. Hugh Tan.
+9.	Loh Weiting Jolyn. 2012/2013. Honours Thesis. “Plant Communities and the Soil Seed Bank in Areas Infested by the Invasive Cecropia pachystachya.” Supervisor: Assoc. Prof. Hugh Tan.
+8.	Tan Mei Quan. 2012/2013. Honours Thesis. “Potential of Rooftop Gardens to Support Butterfly Communities in Singapore.” Supervisor: Assoc. Prof. Hugh Tan.
+7.	*Kee Yingxin Carmen. 2011/2012. Honours Thesis. “Factors Affecting Plant Species Richness and Composition in Singapore’s Waste-woodlands.” Co-mentor: Alex Yee; Supervisor: Assoc. Prof. Hugh Tan.
+6.	*Louise Neo. 2011/2012. Honours Thesis. “Plant Diversity of Abandoned Rubber Plantations in Singapore: A Novel Ecosystem.” Co-mentor: Alex Yee; Supervisor: Assoc. Prof. Hugh Tan.
+5.	*Ng Wen Qing. 2011/2012. Honours Thesis. “The Interaction Between the Birds and Figs of Singapore.” Supervisor: Prof. Richard Corlett.
+4.	*Mark Brian Raphael. 2011/2012. Honours Thesis. “Comparative Ecological Performance Between Myrmecophytic Pioneer Tree Species in Singapore: The Native Macranga gigantea Versus the Exotic Cecropia pachystachya.” Supervisors: Assoc. Prof. Hugh Tan, Assoc. Prof. Yap Von Bing.
+3.	*Zeng Yiwen. 2011/2012. Honours Thesis. “A Global Trait-based Assessment of Invasiveness and Vulnerability of Freshwater Crayfish.” Supervisor: Dr Darren Yeo
+2.	Chen Junhao. 2011. Undergraduate Research Opportunities in Science. “Enhancing Herbarium Specimen Data Through a Gazetteer of Collection Localities in Singapore.” Supervisor: Assoc. Prof. Hugh Tan
+1.	*Yeo Hwan Theng Hazelina. 2010/2011. Honours Thesis. “Establishment and Spread of Exotic Palms in Singapore’s Forest Patches.” Supervisors: Assoc. Prof. Hugh Tan, Prof. Richard Corlett. Published as a paper in [_Biological Invasions_](./publications.html#palm).

@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Past students</title>
+
+<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">title</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-gear"></span>
+     
+    Student opportunities
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Student research</li>
+    <li>
+      <a href="available_projects.html">Available projects</a>
+    </li>
+    <li>
+      <a href="past_students.html">Past students</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="internships.html">Internships</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="publications.html">
+    <span class="fa fa-info"></span>
+     
+    Publications
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Past students</h1>
+
+</div>
+
+
+<p>*Peer-reviewed paper in ISI-listed journal published/submitted based
+on this work.</p>
+<!---
+Eugenia Mok Kai Ern. 2024/2025. Honours Thesis.
+--->
+<ol start="41" style="list-style-type: decimal">
+<li>Marcus Ooi Yixuan. 2023/2024. Honours Thesis. “Tree community
+turnover in the Mandai storm forest.”</li>
+<li>Yew Ke Yao. 2022/2023. Honours Thesis. “How do environmental
+conditions and habitat specialisation result in differential demographic
+rates among tree species within a tropical catchment containing
+freshwater swamp forest?”</li>
+<li>Kee Jing Ying. 2021/2022. Honours Thesis. “Age-estimation of
+butterflies using reflectance spectrometry.” Co-supervisor: Dr Matthew
+Lim</li>
+<li>*Sim Hong Jhun. 2020/2021. Honours Thesis. “Expansion of a
+generalizable model of resource conversion mutualisms.” Co-supervisors:
+Dr Lam Weng Ngai, A/P Ryan Chisholm [Recipient of NUS President’s
+Graduate Fellowship]</li>
+<li>*Tay Hui Ting, Amanda. 2020/2021. Honours Thesis. “Examining the
+relationship between leaf and stem hydraulic traits and demographic
+rates in freshwater swamp forest tree species” Co-supervisor: Dr Lam
+Weng Ngai</li>
+<li>Emma Gee Yan Ting. 2020/2021. Undergraduate Research Opportunities
+in Science. “Seeds of doubt—investigating seed survival and seedling
+recruitment probabilities in tropical swamp forest tree species”
+Co-supervisor: Dr Lam Weng Ngai</li>
+<li>Choo Ruisheng. 2019/2020. Honours Thesis. “Influence of tree size
+and hydrology on the fruit production of common tree species in Nee Soon
+Swamp Forest.” Co-supervisor: Dr Lam Weng Ngai</li>
+<li>Quek Xiao Tong. 2019/2020. Honours Thesis. “Population demographic
+traits in common urban butterflies.” Mentors: Rie Chong, Justin
+Nai.</li>
+<li>Tan Boxin. 2019/2020. Honours Thesis. “Effects of understorey
+weeding in secondary forests in Singapore.”</li>
+<li>Nicholas Seng Ren Yang. 2019/2020. Honours Thesis. “Exploring
+tropical secondary forest park and nature reserve soils for root
+endophytic fungi through Zea mays trap cultures.” Main supervisor: Dr
+Amy Choong.</li>
+<li>*Sim Hong Jhun. 2019/2020. Undergraduate Research Opportunities in
+Science. “Examining ecological trade-offs and adaptations to the
+freshwater swamp forest habitat in woody tree species using leaf, wood
+and stomatal functional traits.” Co-supervisor: Dr Lam Weng Ngai</li>
+<li>*Chan Pin Jia. 2018/2019. Honours Thesis. “Litter production in wet
+and dry areas of the Nee Soon catchment.” Co-supervisors: Dr Sorain
+Ramchunder, Dr Kelvin Peh.</li>
+<li>Justin Nai Kim Han. 2018/2019. Honours Thesis. “Cultivated plants in
+the urban landscape as food for butterfly caterpillars.” Mentor: Rie
+Chong.</li>
+<li>*Lian Jun Jie. 2018/2019. Honours Thesis. “Litter decomposition
+rates in wet and dry areas of the Nee Soon catchment.” Co-supervisors:
+Dr Sorain Ramchunder, Dr Kelvin Peh.</li>
+<li>Ng Shao Hua. 2018/2019. Honours Thesis. “Evidence for the role of
+urban water bodies in maintaining odonate populations and diversity.”
+Co-supervisor: A/P Darren Yeo.</li>
+<li>Gwyneth Cheng Jia Yi. 2018. Undergraduate Research Opportunities in
+Science. “A Study of Plant-Mycorrhizal Interactions in Singapore.” Main
+supervisor: Dr Amy Choong.</li>
+<li>Emmanuel Goh Shyue Chian. 2017/2018. Honours Thesis. “Effect of
+Landscape Variables and Water Availability on Amphibian Community
+Assemblage in an Urban Landscape.” Mentors: Chloe Tan, Sherry Hung,
+Rachel Lee.</li>
+<li>Lim Li Fang. 2017/2018. Honours Thesis. “Effect of Arbuscular
+Mycorrhizal Colonisation on the Growth of Cecropia pachystachya
+Seedlings.” Co-supervisor: Dr Amy Choong.</li>
+<li>*Lee Sui Kei Rachel. 2016/2017. Honours Thesis. “Temporal changes in
+the urban butterfly assemblage through changes in the urban landscape in
+Singapore.” Mentors: Ng Wen Qing, Chloe Tan, Sherry Hung; Co-supervisor:
+Assoc. Prof. Hugh Tan.</li>
+<li>Rie Chong. 2016/2017. Honours Thesis. “Cultivated plants in the
+urban landscape as food for butterfly caterpillars.” Co-supervisor:
+Assoc. Prof. Hugh Tan.</li>
+<li>Tan Koon Ngee Jonathan. 2016/2017. Honours Thesis. “Responses of the
+exotic tree, Cecropia pachystachya, along an experimental nutrient
+gradient.” Co-supervisor: Assoc. Prof. Hugh Tan.</li>
+<li>Tan Wen Ai Lorraine. 2016/2017. Honours Thesis. “Effects of
+understorey weeding in the Labrador Nature Reserve.” Co-supervisors:
+Chung Yi Fei, Assoc. Prof. Hugh Tan.</li>
+<li>Wong Qi Yun Melissa. 2016/2017. Honours Thesis. “Assessing the
+invasive status of Clidemia hirta in the forests of Upper Seletar
+Reservoir, Singapore.” Mentor: Lai Hao Ran; Co-supervisor: Assoc.
+Prof. Hugh Tan.</li>
+<li>*Sherry Hung Ming Xuan. 2015/2016. Honours Thesis. “Effects of
+Competition, Hydrology and Soil Types on Seedling Performance.” Mentor:
+Seah Wei Wei; Co-supervisor: Assoc. Prof. Hugh Tan.</li>
+<li>Jonathan Tan Koon Ngee. 2015/2016. Undergraduate Research
+Opportunities in Sciences. “Recruitment, Growth, and Mortality of Native
+Macaranga Species and the Exotic Cecropia pachystachya.” Mentor: Jolyn
+Loh Weiting; Co-supervisor: Assoc. Prof. Hugh Tan.</li>
+<li>Chua Xin Yi. 2014/2015. Honours Thesis. “Is there a Correlation
+between Socio-economic Status and Greenery in Singapore?” Co-mentor:
+Alex Yee; Supervisor: Assoc. Prof. Hugh Tan.</li>
+<li>*Lam Weng Ngai. 2014/2015. Honours Thesis. “The Ecology of
+Nepenthesin Production in Nepenthes gracilis Korth. (Nepenthaceae).”
+Supervisors: Assoc. Prof. Hugh Tan, Assoc. Prof. Ganesh Anand.</li>
+<li>Ng Qi Qi. 2014/2015. Honours Thesis. “Effects of Drought on Vascular
+Epiphytes in Singapore.” Co-mentor: Reuben Lim; Supervisor: Assoc.
+Prof. Hugh Tan.</li>
+<li>*Rie Chong. 2014/2015. Undergraduate Research Opportunities in
+Science. “Pre- and Post-dispersal Seed Predation of Shorea spp. in the
+Fragmented Primary Forests of Singapore.” Co-mentors: Alex Yee, Marcus
+Chua; Supervisor: Assoc. Prof. Hugh Tan.</li>
+<li>*Tan Wen Ai Lorraine. 2014/2015 Undergraduate Research Opportunities
+in Science. “Pre- and Post-dispersal Seed Predation of Dipterocarpus
+spp. in the Fragmented Primary Forests of Singapore.” Co-mentors: Alex
+Yee Thiam Koon, Marcus Chua Aik Hian; Supervisor: Assoc. Prof. Hugh
+Tan.</li>
+<li>Sherry Hung Ming Xuan. 2014/2015. Undergraduate Research
+Opportunities in Science. “The Vascular Plant Flora and Vegetation of
+the Islands Associated with Singapore’s First Marine Park.” Supervisor:
+Assoc. Prof. Hugh Tan.</li>
+<li>Letchumi Mani. 2012/2013. Honours Thesis. “Can Guided Nature Walks
+in Different Green Space Types Change Conservation Concern and
+Motivation in High School Students?” Co-mentor: Giam Xingli; Supervisor:
+Assoc. Prof. Hugh Tan.</li>
+<li>Loh Weiting Jolyn. 2012/2013. Honours Thesis. “Plant Communities and
+the Soil Seed Bank in Areas Infested by the Invasive Cecropia
+pachystachya.” Supervisor: Assoc. Prof. Hugh Tan.</li>
+<li>Tan Mei Quan. 2012/2013. Honours Thesis. “Potential of Rooftop
+Gardens to Support Butterfly Communities in Singapore.” Supervisor:
+Assoc. Prof. Hugh Tan.</li>
+<li>*Kee Yingxin Carmen. 2011/2012. Honours Thesis. “Factors Affecting
+Plant Species Richness and Composition in Singapore’s Waste-woodlands.”
+Co-mentor: Alex Yee; Supervisor: Assoc. Prof. Hugh Tan.</li>
+<li>*Louise Neo. 2011/2012. Honours Thesis. “Plant Diversity of
+Abandoned Rubber Plantations in Singapore: A Novel Ecosystem.”
+Co-mentor: Alex Yee; Supervisor: Assoc. Prof. Hugh Tan.</li>
+<li>*Ng Wen Qing. 2011/2012. Honours Thesis. “The Interaction Between
+the Birds and Figs of Singapore.” Supervisor: Prof. Richard
+Corlett.</li>
+<li>*Mark Brian Raphael. 2011/2012. Honours Thesis. “Comparative
+Ecological Performance Between Myrmecophytic Pioneer Tree Species in
+Singapore: The Native Macranga gigantea Versus the Exotic Cecropia
+pachystachya.” Supervisors: Assoc. Prof. Hugh Tan, Assoc. Prof. Yap Von
+Bing.</li>
+<li>*Zeng Yiwen. 2011/2012. Honours Thesis. “A Global Trait-based
+Assessment of Invasiveness and Vulnerability of Freshwater Crayfish.”
+Supervisor: Dr Darren Yeo</li>
+<li>Chen Junhao. 2011. Undergraduate Research Opportunities in Science.
+“Enhancing Herbarium Specimen Data Through a Gazetteer of Collection
+Localities in Singapore.” Supervisor: Assoc. Prof. Hugh Tan</li>
+<li>*Yeo Hwan Theng Hazelina. 2010/2011. Honours Thesis. “Establishment
+and Spread of Exotic Palms in Singapore’s Forest Patches.” Supervisors:
+Assoc. Prof. Hugh Tan, Prof. Richard Corlett. Published as a paper in <a
+href="./publications.html#palm"><em>Biological Invasions</em></a>.</li>
+</ol>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
