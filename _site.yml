@@ -2,13 +2,11 @@ name: "names"
 output_dir: docs
 
 navbar:
-  title: "title"
+  title: "CHONG Kwek Yan"
   left:
-    - text: "Home"
-      icon: fa-home
+    - text: "About me"
       href: index.html
     - text: "Student opportunities"
-      icon: fa-gear
       menu:
         - text: "Student research"
         - text: "Available projects"
@@ -19,7 +17,6 @@ navbar:
         - text: "Internships"
           href: internships.html
     - text: "Publications"
-      icon: fa-info
       href: publications.html
 
 output:
