@@ -15,6 +15,10 @@ Feel free to approach any of my former students to find out what to expect from 
 
 This project will undertake a re-survey of the 'Mandai storm forest’ plots. See [Yee et al. (2019)](/publications.html#YeeEtAl_2019) and [Lai et al. (2022)](/publications.html#HughTanSpecial_LaiEtAl) for more information on these plots. In brief, there are 40 plots measuring 10 x 10 m north and south of Mandai road that were surveyed annually from 2011--2015 and then once in 2023. The research objective is to estimate mortality and growth rates of saplings (1 – 5 cm DBH) >10 years after the original tree fall event 15 years ago.
 
+This project is more suitable as a FYP (i.e., LSM4288).
+
 ## 2.	Comparing sapling communities between native- and exotic-dominated forests in Singapore
 
 This project will establish 10 x 10 m ‘sub-plots’ in one corner of each plot that we have in the Bukit Batok Nature Park, Bukit Batok Town Park, Thomson Nature Park, and Windsor Nature Park, and measure the stems 1 – 5 cm DBH, i.e., saplings. We have five plots in each of these four parks (i.e., total of 20 plots) where the trees >5 cm DBH in 20 x 20 m have already been measured, and are predominantly non-native (i.e., exotic) tree species. See [Neo et al. (2017)](/publications.html#NeoEtAl_2017) and [Lai et al. (2021)](/publications.html#LaiEtAl_2021). The sapling communities in these plots will be compared to that of 33 similar sub-plots that have been established in the native-dominated 'Wong Yew Kwan plots' in the Central Catchment Nature Reserve.
+
+This project is more suitable as a two-semester UROPS (i.e., LSM3288+LSM3289).
