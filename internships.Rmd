@@ -3,10 +3,34 @@ title: "Internships"
 output: html_document
 ---
 
-NParks’ Tropical Forest Ecology Research programme maintains set of long-term research plots in Singapore’s forests where ecological research can be co-located to maximise potential synergies between projects. These plots include 160 small plots distributed throughout the Central Catchment Nature Reserve and four Nature Parks (Bukit Batok Nature Park, Bukit Batok Town Park, Thomson Nature Park, Windsor Nature Park), as well as two 2-ha plots in the Bukit Timah Nature Reserve that are part of the Forest Global Earth Observatory network of permanent forest dynamics plots.
+NParks’ Tropical Forest Ecology Research programme maintains set of long-term research plots in Singapore’s forests where ecological research can be co-located to maximise potential synergies between projects.
 
-Our intern(s) will (i) assist in the census of trees, saplings, and seedlings, (ii) maintain a set of camera traps and bioacoustics recorders to survey mammals and birds, and/or (iii) monitor flowering, fruiting, and litterfall in these permanent forest plots. Depending on particular interests and any prior experience or skillsets of the intern, they may focus on just one or two of these aspects. Regardless, this internship would be field-intensive, with about 2–3 days of fieldwork per week. It would also involve office/dry laboratory work: drying, sorting, and weighing of leaf litter, as well as sorting of specimens, photographs and data entry.
+---
 
-At the end of this internship, the student will have gained some ability to identify the common forest trees and/or wildlife in Singapore in the field. Deliverables include updating drafts of field and data protocols and curation of data managed through R Markdown notebooks and version control using Git.
+1. Bukit Timah Forest Dynamics Plots
 
-This is a full-time internship and would be open to any period of the year for 2024 – 2026, but long durations (>10 weeks) preferred. Interested students can directly email your CV to Dr Chong Kwek Yan at chong_kwek_yan[AT]nparks.gov.sg, CC: kwek[AT]nus.edu.sg.
+A 2-ha plot was established in the primary forest patch of the Bukit Timah Nature Reserve in 1993, while a second 2-ha plot was later established in secondary forest in 2004. These plots are part of the Forest Global Earth Observatory ([ForestGEO](https://forestgeo.si.edu/) network of permanent forest dynamics plots.
+
+_**Open** for applications for 2026._
+
+---
+
+2. Long-Term Forest Ecological Monitoring project
+
+Under this project, 160 small plots are maintained throughout the Central Catchment Nature Reserve and four Nature Parks (Bukit Batok Nature Park, Bukit Batok Town Park, Thomson Nature Park, Windsor Nature Park). See [Er et al. (2023)](/publications.html#ErEtAl_2023) for more details on these plots.
+
+_Closed for applications until 2027._
+
+---
+
+3. Decennial census of the Singapore Botanic Gardens Rain Forest
+
+A ~6-ha lowland dipterocarp forest was retained unlogged within the grounds of the Singapore Botanic Gardens since the Gardens was established in 1859. Trees in the forest were surveyed in the 1990s (see [Turner et al. 1996](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.1996.10041229.x)), and since 2009 the trees will be re-censused every 10 years.
+
+_Closed for applications until 2029._
+
+---
+
+Our intern(s) will assist in the census of woody stems in these permanent forest plots. At the end of this internship, the student will have gained some ability to identify the common forest trees in Singapore.
+
+These are full-time internships open year-round and long durations (>10 weeks) are preferred. Limited places are available. Interested students can directly email your CV to Dr Chong Kwek Yan at chong_kwek_yan[AT]nparks.gov.sg, CC: kwek[AT]nus.edu.sg.
