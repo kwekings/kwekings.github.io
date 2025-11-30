@@ -7,7 +7,7 @@ output: html_document
 Eugenia Mok Kai Ern. 2024/2025. Honours Thesis.
 --->
 
-1. Marcus Ooi Yixuan. 2023/2024. Honours Thesis. “Tree community turnover in the Mandai storm forest.”
+1. Marcus Ooi Yixuan. 2023/2024. Honours Thesis. “Tree community turnover in the Mandai storm forest.” Manuscript in review.
 
 1. Yew Ke Yao. 2022/2023. Honours Thesis. “How do environmental conditions and habitat specialisation result in differential demographic rates among tree species within a tropical catchment containing freshwater swamp forest?”
 
@@ -35,15 +35,15 @@ Eugenia Mok Kai Ern. 2024/2025. Honours Thesis.
 
 1. Lian Jun Jie. 2018/2019. Honours Thesis. “Litter decomposition rates in wet and dry areas of the Nee Soon catchment.” Co-supervisors: Dr Sorain Ramchunder, Dr Kelvin Peh. **Published as [Lam et al. (2021)](/publications.html#LamEtAl_2021).**
 
-1. Ng Shao Hua. 2018/2019. Honours Thesis. “Evidence for the role of urban water bodies in maintaining odonate populations and diversity.” Co-supervisor: A/P Darren Yeo. Contributed data to a manuscript in revision.
+1. Ng Shao Hua. 2018/2019. Honours Thesis. “Evidence for the role of urban water bodies in maintaining odonate populations and diversity.” Co-supervisor: A/P Darren Yeo. **Contributed data to [Song et al. (2025)](/publications.html#SongEtAl_2025).**
 
 1. Gwyneth Cheng Jia Yi. 2018. Undergraduate Research Opportunities in Science. “A Study of Plant-Mycorrhizal Interactions in Singapore.” Main supervisor: Dr Amy Choong.
 
-1. Emmanuel Goh Shyue Chian. 2017/2018. Honours Thesis. “Effect of Landscape Variables and Water Availability on Amphibian Community Assemblage in an Urban Landscape.” Mentors: Chloe Tan, Sherry Hung, Rachel Lee. Contributed data to a manuscript in revision.
+1. Emmanuel Goh Shyue Chian. 2017/2018. Honours Thesis. “Effect of Landscape Variables and Water Availability on Amphibian Community Assemblage in an Urban Landscape.” Mentors: Chloe Tan, Sherry Hung, Rachel Lee. **Contributed data to [Song et al. (2025)](/publications.html#SongEtAl_2025).**
 
 1. Lim Li Fang. 2017/2018. Honours Thesis. “Effect of Arbuscular Mycorrhizal Colonisation on the Growth of Cecropia pachystachya Seedlings.” Co-supervisor: Dr Amy Choong
 
-1. Lee Sui Kei Rachel. 2016/2017. Honours Thesis. “Temporal changes in the urban butterfly assemblage through changes in the urban landscape in Singapore.” Mentors: Ng Wen Qing, Chloe Tan, Sherry Hung; Co-supervisor: Assoc. Prof. Hugh Tan. Contributed data to a manuscript in revision.
+1. Lee Sui Kei Rachel. 2016/2017. Honours Thesis. “Temporal changes in the urban butterfly assemblage through changes in the urban landscape in Singapore.” Mentors: Ng Wen Qing, Chloe Tan, Sherry Hung; Co-supervisor: Assoc. Prof. Hugh Tan. **Contributed data to [Song et al. (2025)](/publications.html#SongEtAl_2025).**
 
 1. Rie Chong. 2016/2017. Honours Thesis. “Cultivated plants in the urban landscape as food for butterfly caterpillars.” Co-supervisor: Assoc. Prof. Hugh Tan.
 
