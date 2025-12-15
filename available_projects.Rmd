@@ -11,6 +11,17 @@ I also require the student to be receptive to criticism.
 
 Feel free to approach any of my former students to find out what to expect from me. If you think you might be able to take it and possess the requisites, please get in touch to arrange a face-to-face chat. However, meeting up does not mean acceptance.
 
+## 1. Tree segmentation from terrestrial LiDAR scanning in Singapore's forests
+
+Terrestrial LiDAR scanning (TLS) is increasingly being used to characterise forest structure and quantify aboveground biomass. Tree architecture can also be studied through the segmentation of individual trees from TLS point clouds. This project aims to apply techniques to segment trees from TLS data collected in plots under NParks' Tropical Forest Ecology Research programme. Example research questions include the comparison of tree architecture with increasing size or between native and exotic tree species.
+
+This project is suitable for one of the following:
+a. Final Year Project under the Life Sciences major (i.e., LSM4288E).
+b. Honours Thesis under the Geography major (i.e., GE4401).
+c. Masters in Biodiversity Conservation and Sustainability Research Project (i.e., BL5199).
+
+Options (a) and (c) will be supervised by me and co-supervised by Dr Hao Tang, while option (b) will be supervised by Dr Hao Tang and co-supervised by me.
+
 <!---
 
 ## 1.	Mortality and growth rates during the thinning phase of forest succession
