@@ -4,8 +4,6 @@ output_dir: docs
 navbar:
   title: "CHONG Kwek Yan"
   left:
-    - text: "About me"
-      href: index.html
     - text: "Student opportunities"
       menu:
         - text: "Student research"
@@ -21,7 +19,6 @@ navbar:
 
 output:
   html_document:
-    theme: default
-    highlight: default
-    include:
+    theme: yeti
+    highlight: tango
     css: styles.css

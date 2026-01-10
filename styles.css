@@ -1,3 +1,131 @@
 blockquote {
-  font-style: italic
+    font-style: italic;
+    border-left: 5px solid var(--forest-brand);
+    background-color: #f9fdf9;
+    padding: 15px;
+    color: #555;
+}
+
+/* 1. Define your brand color in one place (optional but cleaner) */
+:root {
+  --forest-brand: #2d5a27;
+}
+
+/* 2. Apply to Headings */
+h1, h2, h3 {
+  color: var(--forest-brand);
+  font-weight: 600;
+}
+
+/* 3. Apply to Navbar Background */
+.navbar-default {
+  background-color: var(--forest-brand) !important;
+  border-color: #1e3d1a !important; /* A slightly darker shade for the bottom border */
+}
+
+/* 4. Match the 'Active' and 'Hover' states */
+/* This makes the "selected" menu item slightly lighter so it stands out */
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+  background-color: #3e7a36 !important; /* Lighter leaf green */
+  color: #ffffff !important;
+}
+
+/* Ensure text stands out against the forest green bar */
+.navbar-default .navbar-nav > li > a, 
+.navbar-default .navbar-brand {
+    color: #ffffff !important;
+}
+
+/* Improve the visibility of the dropdown divider in Yeti theme */
+.dropdown-menu .divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    /* Use a light gray or a semi-transparent white */
+    background-color: rgba(255, 255, 255, 0.2) !important; 
+    border-bottom: none !important;
+}
+
+/* Match dropdown hover to brand color */
+.dropdown-menu > li > a:hover {
+    background-color: var(--forest-brand) !important;
+    color: #ffffff !important;
+}
+
+/* --- Floating TOC Styling --- */
+
+/* 1. Change the "Active" section to your Forest Green */
+.list-group-item.active, 
+.list-group-item.active:hover, 
+.list-group-item.active:focus {
+    background-color: #2d5a27 !important; /* Your H1/H2 Green */
+    border-color: #2d5a27 !important;
+    color: #ffffff !important;
+}
+
+/* 2. Style the TOC panel itself */
+#TOC {
+    border: none;
+    border-left: 2px solid #e1e1e1; /* Subtle vertical line on the left */
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+/* 3. Improve typography of TOC links */
+.tocify-item a, .tocify-item {
+    color: #444 !important;
+    font-size: 1.2em;
+}
+
+/* Refine TOC spacing for better readability */
+.tocify-item {
+    line-height: 1.5em !important;
+    padding-left: 15px !important;
+}
+
+/* Make sure the text doesn't hit the green edge when active */
+.list-group-item {
+    padding: 10px 15px !important;
+}
+
+/* 4. Highlight on hover without changing background */
+.tocify-item:hover {
+    color: #2d5a27 !important;
+    background-color: #f0f7f0 !important; /* Very faint green tint */
+}
+
+/* 5. Remove the bulky rounded corners for a cleaner look */
+.tocify {
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+#TOC::before {
+    content: "Jump to";
+    display: block;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #999;
+    letter-spacing: 1.5px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+/* Highlight your own name in the list (optional) */
+.me {
+    font-weight: bold;
+    color: var(--forest-brand);
+}
+
+#backToTop {
+    /* ... your existing code ... */
+    transition: all 0.3s ease;
+}
+
+#backToTop:hover {
+    background-color: #3e7a36;
+    transform: translateY(-3px); /* Subtle lift effect */
 }
