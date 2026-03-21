@@ -4,8 +4,12 @@ output: html_document
 ---
 
 <!---
-Eugenia Mok Kai Ern. 2024/2025. Honours Thesis.
+1. Spencer Heng. 2025/2026. Honours Thesis.
+
+1. Tan Li Ying. 2025/2026. Honours Thesis.
 --->
+
+1. Eugenia Mok Kai Ern. 2024/2025. Honours Thesis. "Comparisons of the seedling, sapling and tree communities in Singapore’s Central Catchment Nature Reserve."
 
 1. Marcus Ooi Yixuan. 2023/2024. Honours Thesis. “Tree community turnover in the Mandai storm forest.” Manuscript in review.
 
