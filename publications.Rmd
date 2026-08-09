@@ -8,19 +8,29 @@ output:
           smooth_scoll: TRUE
     word_document: default
 ---
-
+<a name="OoiEtAl_2025"></a>
 # A. Peer-reviewed articles in ISI-listed journals
 \*I am the corresponding author
 
 <!---
+Fanin, N., D. Lin, I.H.J. Althuizen, C. Aponte, J. Asplund, A.J. Atapattu, E. Ayres, F. Baptist, J. Barba, J. Barlow, T.W. Berger, J.-P. Bouillet, M. Buée, A. Buresova-Faitova, R. Canessa, A. Carteron, C.T. Castanho, J.J. Casas, B. Chávez-Vergara, M. Chomel, **K.Y. Chong**, A.T. Classen, J. Curiel Yuste, I. Djukic, K.J. Elgersma, C. Fernandez, E. Fenoy, O. Flores, G. Franzitta, G.T. Freschet, V. Fugère, P. Garcia-Palacios, U. Giesselmann, S. Glassman, G. González, A.R. Gripp, P. Gundel, M. Gundale, K. Hairiah, S. Hobbie, J. Hoyos-Santillan, Z. Hu, D. Hui, Z. Huang, C. Huangfu, S. Jackrel, M. Jewell, A. Keiser, P. Kennedy, D. Kerdraon, N. Korboulewsky, V. Krashevska, W.N. Lam, J. Lembrechts, C. Leroy, C. LeRoy, Y. Li, Q. Li, F.Y. Li, B. Li, H. Lin, Z. Lindo, M. Liu, Y. Liu, Y. Long, N.I. Maaroufi, F. Maillard, P. Manning, R. Martins, R. Michalet, A. Milcu, S. Negrete-Yankelevich, M. Otaki, A. Paquette, T. Parker, J. Perez, P.L. Peri, M.-V. Piazza, Q. Ponette, M. Portillo-Estrada, I. Prieto, J.I. Querejeta, M.I. Rashid, M. Sagova-Mareckova, E. Sayer, S. Scheu, L. Schmitt, T. Sizmur, M. Struijk, O.J. Sun, K. Tian, F.M. Thomas, S. Tsuyuzaki, L. van den Brink, V. Vandvik, L. Vivanco, D.A. Wardle, X. Wang, P. Wang, Y. Wang, J. Wang, A.C.Y. Yeung, Z. Yu, D. Zeng, H. Zheng, M. Zhu, L. Augusto, G.F. Veen. (submitted) Global drivers of home-field advantage in litter decomposition: a comprehensive synthesis of the effects of climate, decomposers, litter quality and soil properties. Ecological Monographs.
+
 Zhou, Y., M.E. Rodrigues-Ronderos, Y.K. Law, **K.Y. Chong**, A. Sagar, S. Lum, D. Taylor, H. Tang. (submitted) GEDI aboveground biomass density calibration and model-based inference in tropical forests via embedding-aided spatiotemporal Gaussian process and Bayesian regression. Remote Sensing of Environment.
-Ko, C.-W., H.J. Poon, C.K.L. Yong, Vupasana Srinivasan, Q.Y. Ho, F. Pradana, **K.Y. Chong**, S.C. Chua, K. Andersen. (in review) Root functional traits shift across soil fertility gradient and during forest recovery from land-use change. New Phytologist.
+
+Ko, C.-W., H.J. Poon, C.K.L. Yong, Vupasana Srinivasan, Q.Y. Ho, F. Pradana, **K.Y. Chong**, S.C. Chua, K. Andersen. (in review) Root functional traits shift across soil fertility gradient and during forest recovery from land-use change. Plants, People, Planet.
+
 Edwards, P., D. Zuzana, **K.Y. Chong**, S.C. Chua, H.R. Lai, R.A.T. Leong, J.D. Moore, D. Richards, M. van Breugel, L.S. Wijedasa, A.T.K. Yee. (in preparation) Comparison of plant functional traits across diverse tree cover types in a tropical city.
-* **Chong, K.Y.**, W.Q. Ng, X.Y. Ng, R.C.J. Lim, C.K. Yeo, D. Austin, A.T.K. Yee, X. Giam, S. Teo, J.W. Wang, H.T.W. Tan. (in preparation) Resource provision for birds and butterflies by native and non-native plantings in tropical urban parks.
+
+**Chong, K.Y.**, W.Q. Ng, X.Y. Ng, R.C.J. Lim, C.K. Yeo, D. Austin, A.T.K. Yee, X. Giam, S. Teo, J.W. Wang, H.T.W. Tan. (in preparation) Resource provision for birds and butterflies by native and non-native plantings in tropical urban parks.
+
 Choong, M.F., **K.Y. Chong**, K.Y. Soon, S. Yuan, H.T.W. Tan. (in preparation) Comparative performance of an extensive green roof system using four growing media and five plant species.
+
 **Chong, K.Y.**, R. Chong, N.E.B. Rahman, L.W.A. Tan, Q.Y. Ho, Y.Y. Ting, H.R. Lai, Z. Chiam, W.N. Lam, P.J. Chan, K.N. Mohamed Ramdzan, J.S.H. Lim, V.S.L. Lee, J. Liu, C.T.T. Nguyen, D.E. Kim, M. Liew, C.L. Lau, A.D. Ziegler, S.J. Ramchunder, S.-Y. Liong, H. Ibrahim, Y. Cai (in preparation) Teal carbon in non-peat tropical freshwater swamp forest.
+
 * Lee, R.S.K., S.M.X. Hung, C.Y.T. Tan, J.Y. Chan, D.C.J. Yeo, H.T.W. Tan, **K.Y. Chong**. (in review) Learning through time: Longitudinal study validated predictions on urban bird and butterfly communities and examined mechanisms behind biotic homogenization. Landscape and Urban Planning.
 --->
+1. Ooi, M.Y., Y.Y. Ho, H.R. Lai, A.T.K. Yee, **K.Y. Chong**. (2026) Forest dynamics during the thinning phase of succession following a severe windstorm in a hurricane-free tropical forest. Journal of Tropical Ecology 42:[e21](https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/abs/forest-dynamics-during-the-thinning-phase-of-succession-following-a-severe-windstorm-in-a-hurricanefree-tropical-forest/B778860A85FC654ED23E7F1154EAE732) [[pdf](https://www.dropbox.com/scl/fi/8mq27gw8whd5pwh0nwpbl/ooi-et-al-2026-forest-dynamics-during-the-thinning-phase-of-succession-following-a-severe-windstorm-in-a-hurricane-free-tropical-forest.pdf?rlkey=cfrq9y1ghi948mg3lllby24xn&dl=0)]
+1. Lai, H.R., **K.Y. Chong***, L. Neo, D.A. Wardle, P.A. Vesk. (in press) Asymmetric transferability of trait–environment relationships between native and exotic plant species in Singaporean forests differing in land-use history. Oikos [e12302](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.12302)
 1. Bufford, J.L., A.J. Brandt, **K.Y. Chong**, A. Hooper, K.L. Kamelamela, C. Martin, I.M. Parker, A. Pauchard, K.N. Suding, D.A. Peltzer. (2026) Overcoming structural  barriers to build partnerships that create resilient responses to plant invasions under global change. Conservation Biology 40: [e70180](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70180).
 1. Lee, J.S.H., S. Wu, Yuti A. Fatimah, S.W. Smith, Nur Estya Bte Rahman, **K.Y. Chong**, Asmadi Saad, Budi  Wardhana, X. Giam. (2025) Mapping socio-ecological vulnerability of tropical peatland fires. Environmental Research Letters 20: [124509](https://iopscience.iop.org/article/10.1088/1748-9326/ae203f).
 1. \*Er, K.B.H., S. Lai, C.K. Yeo, **K.Y. Chong**, W.F. Ang, T.Y.S. Choo, P.Y. Tan. (2025) Large old trees can persist in tropical forest fragments and urban landscapes. Biotropica 57: [e70110](https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.70110). [[pdf](https://www.dropbox.com/scl/fi/zju85zs81dpgcx8p9v7ax/er-et-al-2025-large-old-native-trees-can-persist-in-tropical-forest-fragments-and-urban-landscapes.pdf?rlkey=iirp9p87254xa7jmr462k3xoe&dl=0)]
